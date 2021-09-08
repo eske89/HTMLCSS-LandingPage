@@ -136,7 +136,7 @@ section {
 }
 
 .hero {
-    background-image: url(C:\Users\kisna\OneDrive\Documents\GitHub\HTMLCSS-LandingPage\img\hero.jpg);
+    background-image: url(..\img\hero.jpg);
     height: 400px;
     background-size: cover;
     background-position: center;
